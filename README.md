@@ -1,6 +1,6 @@
 # Profile card component
 
-This is my implementation of the challenge [profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-ok_IU_hh-) from [frontendmentor](frontendmentor.io)
+This is my implementation of the challenge [profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-ok_IU_hh-) from [frontendmentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
 It was made with React and Typescript.
 
