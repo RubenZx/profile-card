@@ -6,7 +6,7 @@ It was made with React and Typescript.
 
 ## Result
 
-![result](https://i.imgur.com/eUE7QYF.png)
+![result](https://i.imgur.com/HmUoBe1.png)
 
 ## Setup locally
 

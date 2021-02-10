@@ -6,6 +6,8 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(./assets/bg-pattern-top.svg) no-repeat right 50vw bottom 40vh,
+    url(./assets/bg-pattern-bottom.svg) no-repeat left 50vw top 40vh;
   background-color: hsl(185, 75%, 39%);
 }
 
