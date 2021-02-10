@@ -1,0 +1,4 @@
+.roundedImage {
+  border-radius: 50%;
+  border: solid 5px #fff;
+}
